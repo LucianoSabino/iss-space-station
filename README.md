@@ -1,4 +1,4 @@
-<img src="https://github.com/LucianoSabino/Portfolio/blob/main/assets/projetos-gif/landing-pages-city.gif?raw=true" alt="exemplo imagem">
+<img src="https://github.com/LucianoSabino/iss-space-station/blob/main/assets/iss-gif.gif?raw=true" alt="exemplo imagem">
 
 # # ISS Space Station
 
